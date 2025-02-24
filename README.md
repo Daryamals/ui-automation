@@ -42,15 +42,15 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/your-username/ui-automation.git
-   cd ui-automation```
+   cd ui-automation
 
 2. Соберите проект и запустите тесты:
  ```bash
 Copy
-mvn clean test ```
+mvn clean test 
 
 3. Для генерации отчёта Allure:
 
  ```bash
 Copy
-allure serve allure-results ```
+allure serve allure-results 
