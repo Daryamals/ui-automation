@@ -47,7 +47,7 @@
 2. Соберите проект и запустите тесты:
  ```bash
 Copy
-mvn clean test```
+mvn clean test ```
 
 3. Для генерации отчёта Allure:
 
